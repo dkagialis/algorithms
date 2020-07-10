@@ -1,20 +1,39 @@
 # algorithms
-##C
-##Java
-##Python
-##C++
-##C#
+
+## C
+
+## Java
+
+## Python
+
+## C++
+
+## C#
+
 Visual Basic
-##JavaScript
-##R
+
+## JavaScript
+
+## R
+
 PHP
-##Swift
+
+## Swift
+
 SQL
-##Go
+
+## Go
+
 Assemply
+
 Perl
+
 MATLAB
-##Ruby
+
+## Ruby
+
 Scratch
+
 Rust
+
 PL/SQL
