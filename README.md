@@ -26,6 +26,8 @@ SQL
 
 Assemply
 
+## Scala
+
 Perl
 
 MATLAB
